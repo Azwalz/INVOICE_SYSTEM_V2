@@ -3,7 +3,7 @@
 $host = 'localhost';
 $user = 'root';
 $pass = '';
-$db   = 'invoice';
+$db   = 'invoice_system_V2';
 
 $conn = new mysqli($host, $user, $pass, $db);
 
